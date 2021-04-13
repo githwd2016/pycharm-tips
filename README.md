@@ -1,2 +1,2 @@
-# pycharm-cookbook
-The cookbook is coming...
+# pycharm-tips
+Pycharm 实用技巧
