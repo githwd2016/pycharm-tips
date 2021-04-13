@@ -1,2 +1,2 @@
-# pycharm-cookbook
-Pycharm 2021.1 指南
+# pycharm-tips
+Pycharm 实用技巧

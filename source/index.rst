@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pycharm Cookbook
+Pycharm 实用技巧
 ============================================
 
 .. toctree::
@@ -11,6 +11,8 @@ Pycharm Cookbook
    :caption: 目录:
 
    preface
-   chapters/*
+   tips
+   keymap
+   plugin
    aboutme
 

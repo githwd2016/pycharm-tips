@@ -1,0 +1,16 @@
+1.1 随时随地执行代码块
+=========================================================
+
+当你写完程序里的一段代码时，往往想要对其进行测试，但是使用pytest过于复杂，新开文件又比较麻烦。
+
+这个时候可以使用``Execute Selection in Console``这个功能。
+
+只要选择中需要测试的代码块，右键点击``Execute Selection in Python Console`` 或者使用快捷键 alt + shift + E
+
+接着 PyCharm 就会弹出一个 Python Console 窗口，然后运行你所选择的代码。
+
+注意：这种方法并不会将你文件中的依赖自动加载，如果代码块依赖外部包会报错。
+
+|image0|
+
+.. |image0| image:: https://img.imgdb.cn/item/607551bd8322e6675cd29654.gif
